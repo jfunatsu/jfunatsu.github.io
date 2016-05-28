@@ -11,15 +11,15 @@ url:
 owner:
   name:           Jaqueline Hitomi
   avatar:         avatar.jpg
-  bio:            "Brazilian. Architecture student at Illinois Institute of Technology"
+  bio:            "Brazilian. Architecture student at Illinois Institute of Technology."
   email:          jfunatsu@hawk.iit.edu
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github: https://github.com/jfunatsu        
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:  https://www.instagram.com/jqhita/    
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
