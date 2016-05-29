@@ -4,10 +4,6 @@ title: An Introduction to Architecture and Robotics
 description: "What is Architecture? What is a Robot? How could a Robot be Architectural? How could Architecture be robotic?"
 modified: 2016-05-29
 tags: [architecture robotics]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 What is Architecture?
 
