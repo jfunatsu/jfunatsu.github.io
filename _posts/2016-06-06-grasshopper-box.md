@@ -45,4 +45,4 @@ Modifying the number plugged to the evaluate length and the polar array commands
 	<img src="/images/pattern5.jpg" alt="">
 	<img src="/images/pattern6.jpg" alt="">
 	
-![Geometry modeled using Grasshopper](/images/Grasshopper1.png)
+![Grasshopper](/images/Grasshopper1.png)
