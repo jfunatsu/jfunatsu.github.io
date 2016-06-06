@@ -20,13 +20,11 @@ The pattern modeled by me using Grasshopper will be used as a decorative drawing
 <figure class="half">
 	<img src="/images/box.jpg" alt="">
 	<img src="/images/box2.jpg" alt="">
-	<figcaption>Caption describing these two images.</figcaption>
-</figure>
+	
 <figure class="half">
 	<img src="/images/box3.jpg" alt="">
 	<img src="/images/box4.jpg" alt="">
-	<figcaption>Caption describing these two images.</figcaption>
-</figure>
+	
 
 For the pattern, it was used the command rectangle to create a boundary for the geometry to be created. Then, I made a diagonal line from the center of the square until one of its corners. To do that I used the command Area to find the center of the square and Divide Curve with a number slider 8 to find the corner and mid points. Then I drew a line. After that, I found the midpoint of this line using divide curve again with a number slide 2, drew a perpendicular line and used the command evaluate length to create a point that can be moved through this line. Then I made an arc using this point, the center point and the corner point. I mirrored the arc, joined the two arcs and used the command polar array to get the flower shape.
 
