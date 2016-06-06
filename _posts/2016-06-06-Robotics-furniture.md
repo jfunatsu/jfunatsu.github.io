@@ -9,9 +9,9 @@ Architecture is not only about the building and its structural components like w
 These videos below show how funny and interesting can a space be with interactive furniture.
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/pBtH7XZogxg" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/pBtH7XZogxg" frameborder="0" allowfullscreen></iframe><br><br>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/mvCD2l962_0" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/mvCD2l962_0" frameborder="0" allowfullscreen></iframe><br><br>
 
 <iframe src="https://player.vimeo.com/video/11718385" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/11718385">Ikea Robotics - Animals</a> from <a href="https://vimeo.com/user867740">adam lassy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
