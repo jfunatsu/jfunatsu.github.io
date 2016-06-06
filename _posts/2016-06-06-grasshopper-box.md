@@ -50,5 +50,5 @@ Modifying the number plugged to the evaluate length and the polar array commands
 Below is an image that shows how it looks like on Grasshopper
 
 <figure>
-<img src="/images/Grasshopper1" alt="">
+<img src="/images/Grasshopper1.png" alt="">
 </Figure>
