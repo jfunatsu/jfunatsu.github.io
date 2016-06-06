@@ -38,10 +38,6 @@ Modifying the number plugged to the evaluate length and the polar array commands
 	<img src="/images/pattern2.jpg" alt="">
 
 <figure class="half">
-	<img src="/images/pattern3.jpg" alt="">
-	<img src="/images/pattern4.jpg" alt="">
-
-<figure class="half">
 	<img src="/images/pattern5.jpg" alt="">
 	<img src="/images/pattern6.jpg" alt="">
 	
