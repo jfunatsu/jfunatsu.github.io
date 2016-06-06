@@ -28,7 +28,9 @@ The pattern modeled by me using Grasshopper will be used as a decorative drawing
 
 For the pattern, it was used the command rectangle to create a boundary for the geometry to be created. Then, I made a diagonal line from the center of the square until one of its corners. To do that I used the command Area to find the center of the square and Divide Curve with a number slider 8 to find the corner and mid points. Then I drew a line. After that, I found the midpoint of this line using divide curve again with a number slide 2, drew a perpendicular line and used the command evaluate length to create a point that can be moved through this line. Then I made an arc using this point, the center point and the corner point. I mirrored the arc, joined the two arcs and used the command polar array to get the flower shape.
 
-![Geometry modeled using Grasshopper](/images/unit.jpg)
+<figure>
+<img src="/images/unit.jpg" alt="">
+</Figure>
 
 For the grid I used the commands Planar Grid, Cellulate and Morph 2D from Panneling Tools and plugged my geometry to it and got the desired pattern.
 Modifying the number plugged to the evaluate length and the polar array commands changes the final shape of the pattern.
@@ -44,5 +46,9 @@ Modifying the number plugged to the evaluate length and the polar array commands
 <figure class="half">
 	<img src="/images/pattern5.jpg" alt="">
 	<img src="/images/pattern6.jpg" alt="">
-	
-![Grasshopper](/images/Grasshopper1.png)
+
+Below is an image that shows how it looks like on Grasshopper
+
+<figure>
+<img src="/images/Grasshopper1" alt="">
+</Figure>
