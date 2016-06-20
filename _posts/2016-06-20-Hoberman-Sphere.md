@@ -19,7 +19,7 @@ Expand Sphere in Korea, read more about this project [here](http://www.hoberman.
 <figure>
 <a href="http://67.media.tumblr.com/tumblr_m3yvxtPGoC1ru2sxoo1_1280.jpg"><img src="http://67.media.tumblr.com/tumblr_m3yvxtPGoC1ru2sxoo1_1280.jpg" alt=""></a>
 </Figure>
-Expand Sphere in Estonia, read more about this project [here]((http://www.hoberman.com/portfolio/sphere-estonia.php?myNum=17&mytext=Expanding+Sphere+%28Estonia%29&myrollovertext=%3Cu%3EExpanding+Sphere+%28Estonia%29%3C%2Fu%3E&category=&projectname=Expanding+Sphere+%28Estonia%29)
+Expand Sphere in Estonia, read more about this project [here](http://www.hoberman.com/portfolio/sphere-estonia.php?myNum=17&mytext=Expanding+Sphere+%28Estonia%29&myrollovertext=%3Cu%3EExpanding+Sphere+%28Estonia%29%3C%2Fu%3E&category=&projectname=Expanding+Sphere+%28Estonia%29)
 <br>
 <figure>
 <a href="https://spacedid.files.wordpress.com/2009/09/expanding-geodesic-dome-jersey-city2.jpg?w=545"><img src="https://spacedid.files.wordpress.com/2009/09/expanding-geodesic-dome-jersey-city2.jpg?w=545" alt=""></a>
