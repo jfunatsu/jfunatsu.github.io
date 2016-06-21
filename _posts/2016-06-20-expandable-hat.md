@@ -9,7 +9,7 @@ tags: [expandable hat]
 
 A student from MIT named Paulina Mustafa developed a project named expandable hat. It was inspired by Hoberman’s expandable sphere. The structure rotates and expands according to the amount of light.
 She explains her project on [her webpage](http://fab.cba.mit.edu/classes/863.11/people/paulina.mustafa/final.html)
-
+You can see some pictures and a video from her webpage below:
 <figure>
 <a href="http://fab.cba.mit.edu/classes/863.11/people/paulina.mustafa/img/hatsmall.jpg"><img src="http://fab.cba.mit.edu/classes/863.11/people/paulina.mustafa/img/hatsmall.jpg" alt=""></a>
 </Figure>
