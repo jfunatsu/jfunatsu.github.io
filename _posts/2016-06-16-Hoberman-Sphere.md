@@ -3,7 +3,7 @@ layout: post
 title: Hoberman Expandable Sphere
 description: 
 modified: 2016-06-16
-tags: [laser cutter]
+tags: [expandable sphere]
 ---
 ##Hoberman Expandable Sphere
 <br>
